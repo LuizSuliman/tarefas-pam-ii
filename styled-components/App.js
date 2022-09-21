@@ -10,7 +10,7 @@ const Container = styled.View`
 const Title = styled.Text`
   color: #36fbcf;
   text-align: center;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 400;
 `;
 export default () => (
